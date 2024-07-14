@@ -1,0 +1,50 @@
+body {
+  background-color: #000;
+  font-family: HelveticaNeue,sans-serif;
+}
+
+h1 {
+  font-size: 3.4rem;
+  font-weight: lighter;
+  color: #EC7063;
+  letter-spacing: 3.5px;
+}
+
+p {
+  font-size: .9em;
+  color: #EC7063;
+  margin-top: -15px;
+  font-weight: 300;
+  letter-spacing: 1.5px;
+}
+
+.container {
+  width: 90%;
+  border-top: 1px solid #EC7063;
+  border-bottom: 1px solid #EC7063;
+  padding: 30px 0;
+  margin: 30px 0;
+}
+
+.cube {
+  margin: 0 auto;
+  width: 960px;
+  text-align: center;
+}
+
+button {
+  font-size: 1.5em;
+  color: chocolate;
+  border-radius: 15px;
+  background-color: #000;
+  border: 1.5px solid chocolate;
+  margin-right: 20px;
+  height: 45px;
+  width: 160px;
+}
+
+.square {
+  float: left;
+  border: 1px solid #000;
+  background-color: #EC7063;
+}
